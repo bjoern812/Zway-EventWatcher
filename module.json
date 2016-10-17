@@ -96,6 +96,7 @@
                                     "optionLabels": "namespaces:devices_toggleButton:notification:deviceName"
                                  },
                                  "message":{
+                                    "helper" : "__notifications_message_helper__",
                                     "label":"__notifications_message__",
                                     "type": "textarea"
                                  }
