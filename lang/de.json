@@ -19,5 +19,6 @@
    "toggle" : "Umschalten",
    "notifications_label" : "Benachrichtigungen",
    "notifications_helper":"Benachrichtigungsauslöser auswählen",
-   "notifications_message":"Nachricht:"
+   "notifications_message":"Nachricht:",
+   "notifications_message_helper":"Zu sende Nachricht, wenn das Ereignis kein eigenes Nachrichtenfeld hat"
 }
