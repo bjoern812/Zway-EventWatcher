@@ -16,7 +16,7 @@ function EventWatcher (id, controller) {
     // Call superconstructor first (AutomationModule)
     EventWatcher.super_.call(this, id, controller);
     
-    this.CallbackEvent  = undefined;
+    this.callbackEvent  = undefined;
     this.callbackCancel = undefined;
     this.timeout        = undefined;
 }
